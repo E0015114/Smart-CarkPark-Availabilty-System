@@ -1,0 +1,6 @@
+apache-beam[gcp]==2.54.0
+google-cloud-pubsub
+google-cloud-bigquery
+google-cloud-storage    # For working with GCS files
+google-cloud-logging    # For custom logs
+pytz

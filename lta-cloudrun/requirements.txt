@@ -1,0 +1,5 @@
+Flask==2.2.5
+google-cloud-bigquery
+pandas
+numpy
+tensorflow==2.11.0
